@@ -6,15 +6,15 @@
 
 Dưới đây là một số dự án mà tôi đã đóng góp:
 
-- [Bán khóa học](https://github.com/hau1605/sell_courses.git): Đồ án môn học xây dựng website bán khóa học.
-- [Quản lý garage](https://github.com/hau1605/ManageGarage.git): Đồ án môn học xây dựng hệ thống lý garage.
+- [Bán khóa học](https://github.com/minghunt/sell_courses.git): Đồ án môn học xây dựng website bán khóa học.
+- [Quản lý garage](https://github.com/minghunt/ManageGarage.git): Đồ án môn học xây dựng hệ thống lý garage.
 
 ## Liên hệ
 
 Nếu bạn muốn liên hệ với tôi, bạn có thể liên hệ qua:
 
 - Email: [phmh165@gmail.com](mailto:minhhung.0163@gmail.com)
-- Facebook: [Nguyễn Minh Hùng](https://facebook.com/hau165)
+- Facebook: [Nguyễn Minh Hùng](https://facebook.com/NguyenMinhHung155)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/NguyenMinhHung155) 
 
 # 💻Tech Stack
