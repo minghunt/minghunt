@@ -11,6 +11,9 @@ Dưới đây là một số dự án mà tôi đã đóng góp:
 - [Quản lý garage](https://github.com/minghunt/ManageGarage.git): Đồ án môn học xây dựng hệ thống lý garage.
 - [Bán xe máy](https://github.com/minghunt/OKXE.git): Đồ án môn học xây dựng ứng dụng điện thoại bán xe máy.
 
+Dự án cá nhân:
+- [Ứng dụng trò chuyện](https://github.com/minghunt/chat-app): Ứng dụng sử dụng socket.io để trò chuyện realtime.
+- [Ứng dụng thời tiết](https://github.com/minghunt/weather-app): Ứng dụng xem thời tiết trực tuyến.
 ## Liên hệ
 
 
