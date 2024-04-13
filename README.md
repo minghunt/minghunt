@@ -13,6 +13,7 @@ Dưới đây là một số dự án mà tôi đã đóng góp:
 
 Dự án cá nhân:
 - [Ứng dụng trò chuyện](https://github.com/minghunt/chat-app): Ứng dụng sử dụng socket.io để trò chuyện realtime.
+- [Ứng dụng quản lý công việc](https://github.com/minghunt/Task_App_UI): Ứng dụng quản lý công việc xác thực bằng Google, Github.
 - [Ứng dụng thời tiết](https://github.com/minghunt/weather-app): Ứng dụng xem thời tiết trực tuyến.
 ## Liên hệ
 
