@@ -1,24 +1,24 @@
-# Xin chào! Tôi là Nguyễn Minh Hùng
+# Hello! I'm Nguyen Minh Hung
 
-- 🔭 Đang học tập tại [Đại học Công nghệ Thông tin (UIT)](https://www.uit.edu.vn)
+- 🔭  Studying at [University of Information Technology (UIT)](https://www.uit.edu.vn)
 
-## Các dự án
+## Projects
 
-Dưới đây là một số dự án mà tôi đã đóng góp:
-
-
-- [Bán khóa học](https://github.com/hau1605/sell_courses.git): Đồ án môn học xây dựng website bán khóa học.
-- [Quản lý garage](https://github.com/minghunt/ManageGarage.git): Đồ án môn học xây dựng hệ thống lý garage.
-- [Bán xe máy](https://github.com/minghunt/OKXE.git): Đồ án môn học xây dựng ứng dụng điện thoại bán xe máy.
-
-Dự án cá nhân:
-- [Ứng dụng trò chuyện](https://github.com/minghunt/chat-app): Ứng dụng sử dụng socket.io để trò chuyện realtime.
-- [Ứng dụng quản lý công việc](https://github.com/minghunt/Task_App_UI): Ứng dụng quản lý công việc xác thực bằng Google, Github.
-- [Ứng dụng thời tiết](https://github.com/minghunt/weather-app): Ứng dụng xem thời tiết trực tuyến.
-## Liên hệ
+Here are some university projects that I have contributed to:
 
 
-Nếu bạn muốn liên hệ với tôi, bạn có thể liên hệ qua:
+- [Sell courses](https://github.com/hau1605/sell_courses.git): Course website construction project.
+- [Garage management](https://github.com/minghunt/ManageGarage.git): System construction project for garage management.
+- [Sell motorcycles](https://github.com/minghunt/OKXE.git): Building a mobile application for selling motorcycles.
+
+Personal projects:
+- [Chat application:](https://github.com/minghunt/chat-app): Application using socket.io for real-time chat.
+- [Task management application](https://github.com/minghunt/Task_App_UI): Task management application authenticated by Google, Github.
+- [Weather application](https://github.com/minghunt/weather-app): Online weather viewing application.
+## Contact
+
+
+If you would like to contact me, you can reach me via:
 
 - Email: [minhhung.0163@gmail.com](mailto:minhhung.0163@gmail.com)
 - Facebook: [Nguyễn Minh Hùng](https://facebook.com/NguyenMinhHung155)
